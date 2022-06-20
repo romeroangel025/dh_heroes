@@ -1,0 +1,35 @@
+
+
+.cuerpo{
+    
+    background-image:url("https://image.shutterstock.com/image-vector/set-vector-isolated-black-icon-600w-1099479017.jpg");
+     
+    background-attachment: fixed;
+    background-size: 60px;
+}
+
+.titulo{
+    background: rgb(0, 0, 0);
+    text-align:center;
+    font-family:serif ;
+    color:rgb(255, 255, 255);
+    
+   
+
+}
+
+.ancla{
+    background: rgb(229, 224, 233);
+    color: black;
+    text-shadow: 1px 1px #fff;
+}
+.foto{
+    height: 261px;
+    width: 220px;
+
+
+}
+
+
+      
+
